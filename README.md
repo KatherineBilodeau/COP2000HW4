@@ -1,1 +1,1 @@
-# COP2000HW4
+This program allows the user to enter in the names and times of three racers. The times are then compared and the winner is calculated. The program should account for ties. In addition, the program finds the average of the race times. 
